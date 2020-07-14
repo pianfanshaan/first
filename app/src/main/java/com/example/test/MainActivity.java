@@ -18,5 +18,7 @@ public class MainActivity extends AppCompatActivity {
     public void login(){
 
     }
+    public void load(){
 
+    }
 }
